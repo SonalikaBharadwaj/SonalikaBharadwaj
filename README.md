@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SonalikaBharadwaj
 - 🌱 I’m currently pursuing BTech Computer Science (Cyber Security and Digital Forensics) 
 - 💞️ I’m looking to collaborate on any Python or C++ based projects 
-- 📫 How to reach me @sonalika_bharadwaj(instagram)
+- 📫 How to reach me https://www.linkedin.com/in/sonalika-bharadwaj/
 - 😄 Pronouns: She/her.
 
 <!---
