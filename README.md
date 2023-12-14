@@ -26,7 +26,3 @@ for platform, link in connect_with_me.items():
 
 # Feel free to explore my repositories and projects. Happy coding! 🚀
 
-<!---
-SonalikaBharadwaj/SonalikaBharadwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
