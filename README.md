@@ -5,26 +5,46 @@
 
 ## About Me
 
-# I am Sonalika Bharadwaj, a passionate individual with diverse interests in technology.
-# I specialize in Python Development, Full Stack Development, and Cyber Security.
+class SonalikaBharadwaj:
+    def display_user_info(cls):
+        print("Name: Sonalika Bharadwaj")
+        print("Role: Python Developer | Full Stack Developer | Cyber Security Enthusiast")
 
-## Top Skills
-Skills = ["Python", "Java", "C++" , "SQL", "HTML", "CSS", "JavaScript" , "Cyber Security", "AWS", "Django"]
-for skill in Skills:
-    print(f"[#] {skill}")
+### Top Skills
+
+        Skills = ["Python", 
+                  "Java",
+                  "C++" ,
+                  "SQL",
+                  "HTML",
+                  "Css",
+                  "JavaScript" ,
+                  "Cyber Security",
+                  "AWS",
+                  "Django"]
+        print("\nTop Skills:")
+        for skill in skills:
+            print(f"[#] {skill}")
 
 ## Connect With Me
 
-# Let's connect! You can find me on:
-connect_with_me = {
-    "LinkedIn": "https://www.linkedin.com/in/sonalika-bharadwaj/",
-    "Gmail": "sonalikabharadwaj@gmail.com",
-}
+        connect_with_me = {
+        "LinkedIn": "https://www.linkedin.com/in/sonalika-bharadwaj/",
+        "Gmail": "sonalikabharadwaj@gmail.com",
+    }
+        print("\nConnect With Me:")
+        for platform, link connect_with_me():
+            print(f"{platform}: {link}")
 
-for platform, link in connect_with_me.items():
-    print(f"{platform}: {link}")
+# Display user information
+SonalikaBharadwaj.display_user_info()
 
 # Feel free to explore my repositories and projects. Happy coding! 🚀
+```
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalikabharadwaj&show_icons=true&locale=en&layout=compact" alt="sonalikabharadwaj" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonalikaBharadwaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="170" alt="languages graph"  />
+</div>
 
+###
