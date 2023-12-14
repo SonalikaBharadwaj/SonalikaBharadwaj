@@ -26,3 +26,5 @@ for platform, link in connect_with_me.items():
 
 # Feel free to explore my repositories and projects. Happy coding! 🚀
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalikabharadwaj&show_icons=true&locale=en&layout=compact" alt="sonalikabharadwaj" /></p>
+
